@@ -34,7 +34,4 @@
     "src/**/*.jsx",
     "src/**/*.vue"
     ],
-  "vueCompilerOptions": {
-    "plugins": ["@uni-helper/uni-types/volar-plugin"]
-  }
 }
