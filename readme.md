@@ -1,3 +1,9 @@
+> [!TIP]
+> 相关讨论见：
+>
+> https://github.com/vuejs/language-tools/issues/5324
+>
+
 插件依赖            | 版本    | 备注 |
 ---                 | ---    | --- |
 vue                 | 3.4.21 | -   |
